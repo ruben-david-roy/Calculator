@@ -19,7 +19,7 @@ A basic and user-friendly calculator built with C# in Visual Studio 2022, using 
 
 ## 📦 Download
 
-You can download the latest executable of the Calculator from the [releases page](https://github.com/your-github-username/calculator-app/releases).
+You can download the latest executable of the Calculator from the [releases page](https://github.com/DarkTwentyFive/Calculator/releases).
 
 
 
